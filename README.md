@@ -31,3 +31,16 @@ Chosen Local Path: Selected the folder on the local machine where the repository
 Clicked Clone: Click the “Clone” button to start the process.
 
 The repository was successfully cloned to the local machine and is ready for further modifications.
+# About Me
+
+## My Interests
+I have various interests that keep me engaged. I enjoy exploring new technologies, especially in software development and artificial intelligence. In my free time, I love to explore new places, read epic fiction novels, and experiment with cooking different cuisines. I also have a keen interest in music.
+
+## Website I Recommend
+1. [LinkedIn Learning](https://www.linkedin.com/learning/?u=56744281)
+   A platform that provides a vast array of courses and tutorials on various professional skills and topics, which I find incredibly useful for continuous learning.
+2. [Khan Academy](https://www.khanacademy.org)  
+   This site offers free courses on a wide range of subjects, making learning accessible and engaging for everyone.
+
+I hope you find these interests and resources as inspiring as I do!
+
