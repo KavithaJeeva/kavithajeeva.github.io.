@@ -1,13 +1,20 @@
 # kavithajeeva.github.io
 
+1. Your name and email address
+
 Kavitha Jeeva
 kjeeva@my.waketech.edu
+
+2. A brief description of your GitHub account
+
 
 The GitHub account includes a range of projects, such as open-source contributions, programming tutorials, and collaboration tools. It has repositories for different programming languages and frameworks and guides to help others learn and contribute. The goal is to promote teamwork and share knowledge within the developer community.
 
 3. A brief description of the repository you created
 
 This repository is about Cloning and Pushing the GitHub Pages Repository with GitHub Desktop. 
+
+4. A brief description of the steps you took to clone the repository onto your local machine
 
 To clone the repository onto the local machine, the following steps were taken:
 
@@ -23,8 +30,7 @@ Chosen Local Path: Selected the folder on the local machine where the repository
 
 Clicked Clone: Click the “Clone” button to start the process.
 
-The repository was successfully cloned to the local machine and is ready for further modifications
-
+The repository was successfully cloned to the local machine and is ready for further modifications.
 @ -33,14 +33,4 @@ Clicked Clone: Click the “Clone” button to start the process.
 The repository was successfully cloned to the local machine and is ready for further modifications.
 
@@ -39,4 +45,3 @@ I have various interests that keep me engaged. I enjoy exploring new technologie
    This site offers free courses on various subjects, making learning accessible and engaging for everyone.
 
 I hope you find these interests and resources as inspiring as I do!
-
